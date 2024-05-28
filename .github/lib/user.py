@@ -3,6 +3,6 @@ class User:
         print("User.__init__ called.")
         self.name = name
     def log_in(self):
-        print("User.log_in() called!!")
+        print("User.log_in() called!")
         self.logged_in = True
 
